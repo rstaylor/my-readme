@@ -4,8 +4,6 @@ This is a really awesome website
 
 Updates made on Master before release
 
-## Repository Purpose
+ Repository Purpose
 
-This will be a change that conflicts'
-with whatever is on the Remote side.
-This was edited locally
+This file is just a readme file
